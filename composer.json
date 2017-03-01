@@ -1,14 +1,14 @@
 {
-    "name": "jrtashjian/socialiteproviders-eveonline",
+    "name": "rohimma/socialiteprovider-eveonline",
     "description": "EVE Online OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
-        "name": "JR Tashjian",
-        "email": "jrtashjian@gmail.com"
+        "name": "maikel",
+        "email": "info@salox.nl"
     }],
     "require": {
         "php": ">=5.5.9",
-        "socialiteproviders/manager": "2.*"
+        "socialiteproviders/manager": "3.*"
     },
     "autoload": {
         "psr-4": {
